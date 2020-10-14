@@ -1,2 +1,4 @@
 # moneytary
-Money tracking
+Your secretary for your monies! 
+
+--WIP. This is the primary motivator. :) 
